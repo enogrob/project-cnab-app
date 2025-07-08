@@ -219,6 +219,30 @@ mindmap
 
 </details>
 
+<details>
+<summary><strong>4. Git Graph - Project Evolution</strong> (Click to expand)</summary>
+
+```mermaid
+gitGraph
+commit id: "rails-initial-setup"
+commit id: "rspec-initial-setup"
+commit id: "model-initial-setup"
+commit id: "service-initial-setup"
+commit id: "controller-routes-initial-setup"
+commit id: "views-initial-setup"
+commit id: "errors-management-setup"
+commit id: "oauth-setup"
+commit id: "add-tests"
+commit id: "add-sidekiq-redis"
+commit id: "improved-views"
+commit id: "improved-devise-views"
+commit id: "add-docker-and-docker-compose"
+commit id: "add-simplecov"
+commit id: "add-readme"
+```
+
+</details>
+
 ### Key Concepts
 
 * **CNAB Format**: Centro Nacional de Automação Bancária - A standardized fixed-width file format used by Brazilian financial institutions for electronic data interchange, containing transaction records with specific field positions and lengths
